@@ -1,0 +1,6 @@
+226.Invert Binary Tree
+112.Path Sum
+100.Same Tree
+706.Insert in Binary Search Tree
+938.Range Sum of BST
+700.Search in Binary Search Tree
